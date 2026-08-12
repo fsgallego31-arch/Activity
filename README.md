@@ -15,7 +15,7 @@ My program caculates distance using distance formula for easier and quicker comp
 - Second y-coordinate
 
 ## Sample Output
-The distance between ( 2 , 3 ) and ( 7 , 8 ) is  7.0710678118654755
+The distance between ( 2 , 3 ) and ( 7 , 8 ) is  7.07
 
 ## Author
 Folyn Gallego
