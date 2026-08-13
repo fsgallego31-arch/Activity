@@ -15,6 +15,10 @@ My program calculates distance between two points using distance formula for eas
 - Second y-coordinate
 
 ## Sample Output
+Enter your first x-coordinate:2
+Enter your first y-coordinate:3
+Enter your second x-coordinate:7
+Enter your second y-coordinate:8
 The distance between ( 2 , 3 ) and ( 7 , 8 ) is  7.07
 
 ## Author
