@@ -1,7 +1,7 @@
 # Distance Formula Calculator
 
 ## Description
-My program caculates distance using distance formula for easier and quicker computations, helping the user. 
+My program calculates distance between two points using distance formula for easier and quicker computations, helping the user. 
 
 ## How to Run
 1. Open the program.
